@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    flex-direction: row;
+    font-size: sans-serif;
+}
+
+.container {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    margin-top: 11%;
+    margin-bottom:1%;
+    text-transform: uppercase;
+}
+
+section {
+    padding-right: 5px;
+    border-radius: 20px;
+    border-top: 2px solid;
+}
+
+img {
+    margin-left: 31%;
+    margin-top: 5%;
+}
+
+button {
+    margin-left: 18%;
+    padding:5px;
+    border-radius: 10px;
+    border: solid 2px;
+    margin-bottom: 10%;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 0.3em;
+    font-weight: bold;
+}
+
+
